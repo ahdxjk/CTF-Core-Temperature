@@ -1,0 +1,152 @@
+[
+  {
+    "source": "outputs/strict_reanalysis_20261116/CTF_3090_bundle/modules/attribution/run_strict_attribution.py",
+    "source_sha256": "a141609acd59832a294f2e803ad1319a5324524102e0b3857f2c1c1f5c6babf7",
+    "portable_file": "outputs/strict_reanalysis_20261116/CTF_3090_bundle/modules/attribution/run_strict_attribution.py"
+  },
+  {
+    "source": "tabpfn_memory_runtime_v1.py",
+    "source_sha256": "1ca1a6eeccc86ca3dc4f4614b427686948d434331f702a359c2500c55c3e0298",
+    "portable_file": "tabpfn_memory_runtime_v1.py"
+  },
+  {
+    "source": "multikernel_backbone_model_v1.py",
+    "source_sha256": "b9d88a50f390689b4a85b9a1b8246c77e844df27699f94eba6ab9c3489152474",
+    "portable_file": "multikernel_backbone_model_v1.py"
+  },
+  {
+    "source": "xai_fullblock_control_v1.py",
+    "source_sha256": "4dfbb29443bdcda20f4b9fd2e70aea8263114a1400729f4b67849eb4a2e789d3",
+    "portable_file": "xai_fullblock_control_v1.py"
+  },
+  {
+    "source": "xai_neural_v1.py",
+    "source_sha256": "739a7dfe422c1caeb14ff00c966d84fa65bcda2e6ab2a18b83bf708276506438",
+    "portable_file": "xai_neural_v1.py"
+  },
+  {
+    "source": "prepare_multikernel_backbone_v1.py",
+    "source_sha256": "90e6db53ba3f38afce85dac8c28e47b06a86b13fe7ff6372bc48c69229a8d41f",
+    "portable_file": "prepare_multikernel_backbone_v1.py"
+  },
+  {
+    "source": "run_raw_tcn_all_v1.py",
+    "source_sha256": "e6f0339724c0b1ba933e94d1185bf964d0e06e196acbedd21ff589c777507712",
+    "portable_file": "run_raw_tcn_all_v1.py"
+  },
+  {
+    "source": "xai_shap_v1.py",
+    "source_sha256": "c9850b56ed36e1fd2f8caf2c3893b779b684b6be6cff751029d4d5e1c572f7bf",
+    "portable_file": "xai_shap_v1.py"
+  },
+  {
+    "source": "channel_bank400_v1.py",
+    "source_sha256": "b64e455087dfed6966ec6725146b3e8f95965b45058be47590e8a6f5b636e834",
+    "portable_file": "channel_bank400_v1.py"
+  },
+  {
+    "source": "analyze_five_phases_v1.py",
+    "source_sha256": "a33438f9417ec0454b49273724a958780b7c60831c6b2f1e7649346bd78b041c",
+    "portable_file": "analyze_five_phases_v1.py"
+  },
+  {
+    "source": "build_five_phases_v1.py",
+    "source_sha256": "cb4471ed537a1e140424645e581b4356181028f94c87f4ed042da07518f1d7dc",
+    "portable_file": "build_five_phases_v1.py"
+  },
+  {
+    "source": "regional_neural_transfer_v2_model.py",
+    "source_sha256": "257eb0c738ae0d74410d5e97629cb86976701c7f02bb44c65d8f7c70fa1229c0",
+    "portable_file": "regional_neural_transfer_v2_model.py"
+  },
+  {
+    "source": "fair_peer_controls_v2.py",
+    "source_sha256": "94a650c0e20a229184d1e247da104335b52084b7f914ef7451fbc9134cdf62ee",
+    "portable_file": "fair_peer_controls_v2.py"
+  },
+  {
+    "source": "run_external_transfer_v1.py",
+    "source_sha256": "76cf45c2bf009c05675bc7b52d1a4119b3358130ad6c056a127b89bc1acf2a8d",
+    "portable_file": "run_external_transfer_v1.py"
+  },
+  {
+    "source": "external_transfer_v1_data.py",
+    "source_sha256": "1468080ad21f2951991600ce7f7ca5968eac6005a0db2cdbff34e90dfea54643",
+    "portable_file": "external_transfer_v1_data.py"
+  },
+  {
+    "source": "run_regional_neural_transfer_v2.py",
+    "source_sha256": "27019f7eea2545cde10e5f88fe6d48913ec457bb9899f2874505c2d33df61d44",
+    "portable_file": "run_regional_neural_transfer_v2.py"
+  },
+  {
+    "source": "regional_causal_inputs_v2.py",
+    "source_sha256": "e18ff4dabc8232c01f5cdb4c7a14972c54a5873b9e0cac9115f8aa14a3e3cbbc",
+    "portable_file": "regional_causal_inputs_v2.py"
+  },
+  {
+    "source": "load_brighton_publication_v1.py",
+    "source_sha256": "a3a0bb0d97e5e64669d7fe86ec5e57305fe10ada447f98b33b0b6a4363fdcfb4",
+    "portable_file": "load_brighton_publication_v1.py"
+  },
+  {
+    "source": "run_omius_head2_evaluate_20261117.py",
+    "source_sha256": "f86df5c4ed0c9f5d11e6ae5528465262eb8c7a6788015f7f73eb577b61aad5ae",
+    "portable_file": "run_omius_head2_evaluate_20261117.py"
+  },
+  {
+    "source": "run_omius_head2_adapt_20261117.py",
+    "source_sha256": "a60696389e38727cf67ba1881e0def67a1b56084a671d28996c56aa63f0ac073",
+    "portable_file": "run_omius_head2_adapt_20261117.py"
+  },
+  {
+    "source": "outputs/ctf_phase_fusion_exploration_20261115/run_estimation_fusion.py",
+    "source_sha256": "4cf2a1af7e9fa9acc9a36ac68306c128483b7cacdc091c845a3e8e2d62e7ffc0",
+    "portable_file": "outputs/ctf_phase_fusion_exploration_20261115/run_estimation_fusion.py"
+  },
+  {
+    "source": "outputs/ctf_phase_fusion_exploration_20261115/run_forecast_fusion.py",
+    "source_sha256": "af6b0ac16cd1038082e028344018d7e281fd08cf58f2a41cae971e6448bee547",
+    "portable_file": "outputs/ctf_phase_fusion_exploration_20261115/run_forecast_fusion.py"
+  },
+  {
+    "source": "outputs/ctf_activity_plan_20261114/activity_plan_features.py",
+    "source_sha256": "5959ab9f3c95776eaa9a49c6bb58fa11a936ac4a09a6e7270f2d3c3c972eabdf",
+    "portable_file": "outputs/ctf_activity_plan_20261114/activity_plan_features.py"
+  },
+  {
+    "source": "strict_confirmation_data_v1.py",
+    "source_sha256": "4b86c59cfef6475a90e887dedeb48b4f1b9c9395c5c357ee2ca70a623a634111",
+    "portable_file": "strict_confirmation_data_v1.py"
+  },
+  {
+    "source": "revision_schedule_v3.py",
+    "source_sha256": "9b11bd5581fd06c03d72a0f4d151618b8cd5ec5ff3f8f692e7d6baa7fe5c1fe6",
+    "portable_file": "revision_schedule_v3.py"
+  },
+  {
+    "source": "outputs/ctf_activity_plan_20261114/run_experiment.py",
+    "source_sha256": "be096f13c06ab300fff6dcb882ed05368ffaa1449893f8c20d0173f1c4d75aa0",
+    "portable_file": "outputs/ctf_activity_plan_20261114/run_experiment.py"
+  },
+  {
+    "source": "outputs/ctf_direct_forecast_20261113/models.py",
+    "source_sha256": "034fdf12d49825184e25478a4a79e504f9370dbb45becc9895a80f938e9d641c",
+    "portable_file": "outputs/ctf_direct_forecast_20261113/models.py"
+  },
+  {
+    "source": "outputs/ctf_direct_forecast_20261113/run_forecast.py",
+    "source_sha256": "c364b45e5c81773b100b2aea4844accc9ab492daf6ac579f013943c4a669e7dc",
+    "portable_file": "outputs/ctf_direct_forecast_20261113/run_forecast.py"
+  },
+  {
+    "source": "outputs/ctf_direct_forecast_20261113/baseline_models.py",
+    "source_sha256": "6fbc67bed0157292789eb08638bbc3807ded2e55e6ae566728c8415c2dfdef05",
+    "portable_file": "outputs/ctf_direct_forecast_20261113/baseline_models.py"
+  },
+  {
+    "source": "forecast_extension_v2.py",
+    "source_sha256": "f46f0d3a0c06bcadfbb0db59321605ff15759c094362ab8cec384e8afc676580",
+    "portable_file": "forecast_extension_v2.py"
+  }
+]

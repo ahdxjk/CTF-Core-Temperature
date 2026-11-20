@@ -1,0 +1,22 @@
+{
+  "clean_data_sha256": "0e6a48308ac45f4fa510a7e9c254a943648488811bf739abbd6619af1edd5495",
+  "splits_sha256": "291be450a9e600040e6599170098494b253b1a8098b2e967f30bd236b726b43d",
+  "mask_cells_sha256": "0920cf74bc19720824018295bcdd63c7840901cb30cd561881dc28bbfe057d9f",
+  "rows": 17264,
+  "labels": 17153,
+  "participants": 40,
+  "trials": 155,
+  "source_split_sizes": [
+    24,
+    8,
+    8
+  ],
+  "formula_mask_rule": "All formula-derived cells among the 22 input channels and rectal target were masked before features, normalization, or fitting. Retain all timeline rows; score only measured labels.",
+  "source_data_attribution": "PROSPIE dataset, source workbook V3; clean data and splits are byte-identical to verified strict_confirmation_v1.",
+  "source_excel_sha256": "5209b4e5ffb2f6a515a276e6b55cdc33190f514b7ac02528e04bc32cc35ebd3e",
+  "runtime_at_export": {
+    "numpy": "2.5.4",
+    "pandas": "2.3.3",
+    "torch": "2.7.1+cu118"
+  }
+}
